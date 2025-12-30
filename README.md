@@ -9,7 +9,7 @@ However, the original online text was difficult to navigate and showed its age t
 
 Leveraging the original [CC BY-NC-SA 3.0 US](https://creativecommons.org/licenses/by-nc-sa/3.0/us/deed.en) license, I have adapted the content into a clean, online-accessible PDF using [Typst](https://typst.app/), modernizing the advice for the current academic landscape.
 This repository serves primarily as a personal reference, but I hope others find it useful.
-Please feel free to use and reference this work under the Attribution-NonCommercial-ShareAlike 4.0 International license, ensuring full credit is maintained for the original author, Joe Schall.
+Please feel free to use and reference this work under the [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/) license, ensuring full credit is maintained for the original author, Joe Schall.
 
 > [!WARNING]
 > The current version has been minimally changed from its original content.
@@ -58,4 +58,4 @@ Please feel free to use and reference this work under the Attribution-NonCommerc
 
 ## License
 
-Adapted from _Writing Recommendation Letters Online_ located at <https://www.e-education.psu.edu/writingrecommendationlettersonline/> and written by Joe Schall, licensed under the [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/) license.
+Adapted from _Writing Recommendation Letters Online_ located at <https://www.e-education.psu.edu/writingrecommendationlettersonline/> and written by Joe Schall, licensed under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/).
