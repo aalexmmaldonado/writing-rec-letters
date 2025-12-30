@@ -58,4 +58,4 @@ Please feel free to use and reference this work under the [CC BY-NC-SA 4.0](http
 
 ## License
 
-Adapted from _Writing Recommendation Letters Online_ located at <https://www.e-education.psu.edu/writingrecommendationlettersonline/> and written by Joe Schall, licensed under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/).
+Adapted from [_Writing Recommendation Letters Online_](https://www.e-education.psu.edu/writingrecommendationlettersonline/) by Joe Schall, licensed under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/).
