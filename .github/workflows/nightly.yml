@@ -19,13 +19,8 @@ jobs:
       - name: Setup Typst
         uses: typst-community/setup-typst@v4
 
-      - name: Install Roboto Font
-        run: |
-          sudo apt-get update
-          sudo apt-get install -y fonts-roboto
-
       - name: Compile Typst Document
-        run: typst compile writing-rec-letters.typ
+        run: typst compile writing-rec-letters.typ --font-path fonts/
 
       - name: Update Nightly Release
         uses: softprops/action-gh-release@v2
